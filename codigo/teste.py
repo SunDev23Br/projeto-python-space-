@@ -31,17 +31,17 @@ def exibir_relatorio(resultados):
         print(f"Velocidade: {detrito['velocidade']}")
         print("-" * 40)
 
-        if item['risco'] =="CRÍTICO":
+        #if item['risco'] =="CRÍTICO":
 
-            print("Alerta: Detrito de alta velocidade detectado! Risco de colisão iminente.")
+           # print("Alerta: Detrito de alta velocidade detectado! Risco de colisão iminente.")
 
 
 def main():
 
     detritos = ativar_sistema()
 
-    resultados = analisar_detritos(detritos)
+    #resultados = analisar_detritos(detritos)
 
-    exibir_relatorio(resultados)
+    #exibir_relatorio(resultados)
 
 main()
