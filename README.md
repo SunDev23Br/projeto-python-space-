@@ -58,4 +58,4 @@ Abra o terminal na pasta do projeto
 Execute o comando:
 python main.py
 
-O sistema irá processar os dados dos detritos espaciais e exibir o relatório orbital no terminal.
+O sistema irá processar os dados dos detritos espaciais e exibir o relatório orbital no terminal.ola
