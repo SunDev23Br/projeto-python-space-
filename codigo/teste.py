@@ -1,4 +1,4 @@
-print("\n<<<<<<<<< SPACE GUARDIAN >>>>>>>>>>>\n")
+print("\n<<<<<<<<< SPACE GUARDIAN >>>>>>>>>>>>>>\n")
 print("Bem-vindo ao Space Guardian, o sistema de proteção espacial!")
 
 
